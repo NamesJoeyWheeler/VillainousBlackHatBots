@@ -3,7 +3,8 @@ English translation of Villanos - Maldad Mecánica
 
 ## Disclaimer
 
-This game is owned by Cartoon Network Games and WONBATS.
+This game is owned by Cartoon Network Games and WONBATS
+
 If any of the owners wish for this release to be removed, please contact me.
 
 
