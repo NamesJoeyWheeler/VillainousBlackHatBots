@@ -1,0 +1,99 @@
+window.spanish = {};
+
+window.spanish.GAME_LANGUAGE = "Português Brasileiro";
+
+window.spanish.TITLE = "Vilão";
+window.spanish.GAME_TITLE = "Robôs de Chapéu Preto";
+
+window.spanish.LEVEL = "Nível";
+
+window.spanish.CLOSE_DIALOG_MSG = "Você quer sair?";
+window.spanish.CLOSE_DIALOG_YES = "Sim";
+window.spanish.CLOSE_DIALOG_NO = "Não";
+
+window.spanish.MISSION_RUN_X_KM = "Correr # quilômetros";
+window.spanish.MISSION_DESTROY_X_ENEMIES = "Destroi # inimigos";
+window.spanish.MISSION_DIE_X_TIMES = "Explodir # vezes";
+window.spanish.MISSION_BOUNCE_IN_ENEMIES_X_TIMES = "Saltar sobre os inimigos # vezes";
+window.spanish.MISSION_COLLECT_X_COINS = "Coletar # moedas";
+window.spanish.MISSION_BLOCK_ATTACKS_X_TIMES = "Bloquear ataques # vezes";
+window.spanish.MISSION_TEAR_ENEMIES_X_TIMES = "Golpeia os inimigos de frente # vezes";
+window.spanish.MISSION_SEND_TO_FLY_ENEMIES_X_TIMES = "Envia inimigos para voar # vezes";
+window.spanish.MISSION_CRUSH_ENEMIES_X_TIMES = "Esmaga os inimigos # vezes";
+window.spanish.MISSION_DESTROY_X_JAKES = "Destroi # Robo-Jakes";
+window.spanish.MISSION_DESTROY_X_FINNS = "Destroi # Robo-Finns";
+window.spanish.MISSION_DESTROY_X_BUBBLES = "Destroi # Robô-Bolhas";
+window.spanish.MISSION_DESTROY_X_BUTTERCUPS = "Destroi # Robo-Buttercups";
+window.spanish.MISSION_DESTROY_X_BLOSSOMS = "Destroi # Robô-Flores";
+window.spanish.MISSION_DESTROY_X_STEVENS = "Destroi # Robo-Steven";
+window.spanish.MISSION_COUNTER_DAMAGE_X_TIMES = "Contra-ataca inimigos # vezes";
+
+window.spanish.MISSION_KILL_SUNBLAST = "Derrote SunBlast";
+
+window.spanish.MISSION_USE_DEMENTIA_X_TIMES = "Usar Demência # vezes";
+window.spanish.MISSION_USE_JEKYLL_X_TIMES = "Usar Jekyll # vezes";
+window.spanish.MISSION_USE_MUSCLEMAN_X_TIMES = "Usar Musculoso # vezes";
+window.spanish.MISSION_USE_SENTINEL_X_TIMES = "Usar Sentinela # vezes";
+//
+window.spanish.TAB_MISSIONS = "Missões";
+window.spanish.TAB_UPGRADES = "Melhorias";
+window.spanish.TAB_HATS = "Chapéus";
+
+window.spanish.SHOP_ATTACK = "ATAQUE";
+window.spanish.SHOP_UPPERCUT = "GANCHO";
+window.spanish.SHOP_SLAM = "BATER";
+window.spanish.SHOP_DEFENSE = "DEFESA";
+window.spanish.SHOP_ENERGY = "ENERGIA";
+window.spanish.SHOP_LUCK = "SORTE";
+window.spanish.SHOP_COUNTER = "CONTADOR";
+window.spanish.SHOP_MAGNET = "ÍMÃ";
+window.spanish.SHOP_SENTINEL = "SENTINELA";
+window.spanish.SHOP_JEKYLL = "JEKYLL";
+window.spanish.SHOP_DEMENTIA = "DEMÊNCIA";
+window.spanish.SHOP_MUSCLE = "MÚSCULO";
+
+window.spanish.HAT_0 = "BHB";
+window.spanish.HAT_0_DESC_1 = "BHB"
+window.spanish.HAT_0_DESC_2 = "BHB"
+window.spanish.HAT_1 = "DEMÊNCIA";
+window.spanish.HAT_1_DESC_1 = "Aumenta a velocidade dos ataques";
+window.spanish.HAT_1_DESC_2 = "";
+window.spanish.HAT_2 = "5.0.5.";
+window.spanish.HAT_2_DESC_1 = "Aumenta a defesa";
+window.spanish.HAT_2_DESC_2 = "";
+window.spanish.HAT_3 = "FLUG";
+window.spanish.HAT_3_DESC_1 = "Frita os circuitos dos inimigos";
+window.spanish.HAT_3_DESC_2 = "";
+window.spanish.HAT_4 = "SINISTRO";
+window.spanish.HAT_4_DESC_1 = "Aumenta o dano do ataque";
+window.spanish.HAT_4_DESC_2 = "";
+window.spanish.HAT_5 = "CAVALEIRO ETERNO";
+window.spanish.HAT_5_DESC_1 = "Dano crítico mais frequentemente";
+window.spanish.HAT_5_DESC_2 = "";
+window.spanish.HAT_6 = "ESMERALDA";
+window.spanish.HAT_6_DESC_1 = "Aumenta o dano do gancho";
+window.spanish.HAT_6_DESC_2 = "";
+window.spanish.HAT_7 = "SENHOR BOXMAN";
+window.spanish.HAT_7_DESC_1 = "Aumenta o dano no golpe";
+window.spanish.HAT_7_DESC_2 = "";
+window.spanish.HAT_8 = "MOJO JOJO";
+window.spanish.HAT_8_DESC_1 = "Poderes mais frequentes";
+window.spanish.HAT_8_DESC_2 = "";
+window.spanish.HAT_9 = "ANTI-POPS";
+window.spanish.HAT_9_DESC_1 = "Aumenta o poder no ímã da moeda";
+window.spanish.HAT_9_DESC_2 = "";
+window.spanish.HAT_10 = "CHAPÉU PRETO";
+window.spanish.HAT_10_DESC_1 = "Poder infinito";
+window.spanish.HAT_10_DESC_2 = "";
+window.spanish.HAT_11 = "REI DO GELO";
+window.spanish.HAT_11_DESC_1 = "Chance de congelar o inimigo";
+window.spanish.HAT_11_DESC_2 = "";
+window.spanish.HAT_12 = "AKU";
+window.spanish.HAT_12_DESC_1 = "Aumenta o dano do contador";
+window.spanish.HAT_12_DESC_2 = "";
+
+window.spanish.TERMS_OF_USE = "https://www.cartoonnetwork.com.ar/terminos-de-uso";
+window.spanish.PRIVACY_POLICY = "https://www.cartoonnetwork.com.ar/politica-de-privacidad";
+
+window.spanish.VIDEO_INTRO = "intro_ptbr";
+window.spanish.VIDEO_ENDING = "ending_ptbr";
